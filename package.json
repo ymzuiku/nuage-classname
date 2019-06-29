@@ -1,0 +1,11 @@
+{
+  "name": "@nuage/classname",
+  "version": "1.0.0",
+  "author": "pillar",
+  "private": false,
+  "main": "classname.js",
+  "types": "classname.d.ts",
+  "devDependencies": {
+    "tscu": "^1.1.8"
+  }
+}
