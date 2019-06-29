@@ -5,6 +5,9 @@
   "private": false,
   "main": "classname.js",
   "types": "classname.d.ts",
+  "scripts": {
+    "lib": "tscu lib --outDir ./"
+  },
   "devDependencies": {
     "tscu": "^1.1.8"
   }

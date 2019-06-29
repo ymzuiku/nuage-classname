@@ -1,4 +1,4 @@
-# classname
+# nuage-classname
 
 迷你版的 classname，只保留一个模式：
 
